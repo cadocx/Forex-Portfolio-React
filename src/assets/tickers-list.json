@@ -1,0 +1,30 @@
+[
+  {
+    "code": "EURUSD",
+    "name": "EURO/USD"
+  },
+  {
+    "code": "USDJPY",
+    "name": "USD/JPY"
+  },
+  {
+    "code": "GPDUSD",
+    "name": "GPB/USD"
+  },
+  {
+    "code": "USDCHF",
+    "name": "USD/CHF"
+  },
+  {
+    "code": "AUDUSD",
+    "name": "AUD/USD"
+  },
+  {
+    "code": "USDCAD",
+    "name": "USD/CAD"
+  },
+  {
+    "code": "NZDUSD",
+    "name": "NZD/USD"
+  }
+]
